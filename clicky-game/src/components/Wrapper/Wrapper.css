@@ -1,0 +1,15 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('https://vignette.wikia.nocookie.net/simpsons/images/5/50/Wiki-background/revision/latest/scale-to-width-down/640?cb=20111015160455');
+    background-repeat: no-repeat center center fixed;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    padding-bottom: 50px;
+  }
