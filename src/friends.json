@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/NelsonHaha.gif",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/HansMoleman1.gif",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "http://www.simpsoncrazy.com/content/pictures/homer/homer-pythagoras.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MrBurns4.gif",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/RodToddFlanders.gif",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Duffman.gif",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/ProfessorFrink1.gif",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Kodos.gif",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/TroyMcClure2.gif",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/GroundskeeperWilly2.gif",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "http://www.simpsoncrazy.com/content/pictures/regulars/RalphWiggum3.gif",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "http://www.simpsoncrazy.com/content/pictures/onetimers/MrSparkle.gif",
+      "clicked": false
+    }
+  ]
+  
