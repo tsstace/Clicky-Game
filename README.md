@@ -4,7 +4,7 @@ This React project allows the user to test their memory as they click on "Simpso
 
 ![Screenshot](./public/Simpsonclicky.PNG)
 
-# :octocat: Deployment:
+# Deployment: :octocat:
 - Available on Github pages at:  https://tsstace.github.io/Clicky-Game/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
