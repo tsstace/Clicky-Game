@@ -44,8 +44,7 @@ class App extends Component {
     });
     if (newScore === 12) {
       this.setState({ rightWrong: "Excellent!",
-                    currentScore: 0,
-                    clicked: []
+                    currentScore: 0
                     });
     }
     else if (newScore >= this.state.topScore) {
