@@ -2,7 +2,7 @@
 
 This React project allows the user to test their memory as they click on "Simpsons" character tiles without repeating a choice.  The twelve images are shuffled after every click and the score resets to zero if a character is repeated.  
 
-![Screenshot](./public/Simpsonsclicky.PNG)
+![Screenshot](./public/Simpsonclicky.PNG)
 
 # :octocat: Deployment:
 - Available on Github pages at:  https://tsstace.github.io/Clicky-Game/
